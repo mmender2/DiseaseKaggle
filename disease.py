@@ -28,7 +28,7 @@ colors = plt.rcParams['axes.prop_cycle'].by_key()['color']
 
 # Define data directory
 # DATA_DIR = Path("../input/icr-identify-age-related-conditions/")
-DATA_DIR = Path("/Users/maxmender/Desktop/Kaggle/Disease/icr-identify-age-related-conditions")
+DATA_DIR = Path("Path to files")
 
 
 # Load data
